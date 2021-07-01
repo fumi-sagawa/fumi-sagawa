@@ -6,6 +6,6 @@ webクリエーター。企画から実装まで。
 ゲームは胸を張って好きなのにPS5が買えません。  
 
  ### URL
-:bird:[twitter](https://twitter.com/fumi_sagawa)  
-:green_book:[note](https://note.com/23letter)  
+:bird: [twitter](https://twitter.com/fumi_sagawa)  
+:green_book: [note](https://note.com/23letter)  
 
